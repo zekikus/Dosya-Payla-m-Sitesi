@@ -1,0 +1,68 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family:"Verdana";
+}
+
+.header{
+	width:100%;
+	box-shadow:3px 3px 3px black;
+	background-image:url("../images/header_zemin.png");
+	background-repeat:repeat-x;
+	height:89px;
+}
+
+.logo{
+	width:165px;
+	height:48px;
+	background:white;
+	float:left;
+	margin-left:15%;
+	margin-top:1%;
+	border-radius:5px;
+}
+
+.logo img{
+	padding:10px;
+	margin-left:1px;
+}
+
+.links{
+	position:absolute;
+	width:70%;
+	margin-left:28%;
+	margin-top:1px;
+	float:right;
+}
+
+.links li{
+	float:left;
+	padding-left:15px;
+	list-style: none;
+}
+
+.links li a{
+	text-decoration:none;
+	list-style:none;
+	color:#CCC;
+	font-size:14px;
+}
+
+.links li a:hover{
+	color:white;
+}
+
+.links li a:active{
+	color:black;
+}
+
+.header b{
+	margin-left:10%;
+	position:absolute;
+	margin-top:4.3%;
+	background:#333;
+	color:#FFF;
+	padding:6px;
+	border-radius:3px;
+}
+

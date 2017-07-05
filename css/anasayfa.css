@@ -1,0 +1,65 @@
+.ortaKisim{
+	width:60%;
+	height:20%;
+	background-image:-webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f2f2f2));
+	border-radius:5px;
+	margin-left:18%;
+	padding:15px;
+	margin-top:5%;
+	box-shadow: 2px 2px 2px 4px #ccc;
+}
+
+.altKisim{
+	width:60%;
+	height:auto;
+	background-image:-webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f2f2f2));
+	border-radius:5px;
+	margin-left:18%;
+	padding:15px;
+	margin-top:2%;
+	box-shadow: 2px 2px 2px 4px #ccc;
+}
+
+table{
+	font-size:11px;
+	width:100%;
+	margin-top:2%;
+	text-align:center;
+	
+}
+
+.baslik td{
+	color:#fff;
+	text-align:center;
+	background:#FFA95F;
+	padding:1%;
+	font-weight:bold;
+	border:1px solid #333;
+}
+
+.icerik tr{
+	text-align:center;
+}
+
+input[type="submit"]{
+	border:0;
+	background-color:transparent;
+	color: blue;
+	text-decoration:underline;
+	cursor:pointer;
+}
+
+select{
+	padding:%5;
+	width:20%;
+	margin-left:37%;
+	margin-top:1%;
+}
+
+#upload:hover{
+	content: url("../images/uploadx.png");
+}
+
+#download:hover{
+	content: url("../images/downloadx.png");
+}

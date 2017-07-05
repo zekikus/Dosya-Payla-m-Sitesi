@@ -1,0 +1,24 @@
+.ortaKisim{
+	width:50%;
+	height:auto;
+	background-image:url("../images/orta_zemin.png");
+	background-repeat:round;
+	border-radius:5px;
+	margin-left:22%;
+	padding:15px;
+	float:left;
+	margin-top:5%;
+	box-shadow: 2px 2px 2px 4px #ccc;
+}
+
+.ortaKisim table{
+	margin-top:2%;
+	margin-left:20%;
+	width:80%;
+	height:auto;
+}
+
+.ortaKisim span{
+	color:#009900;
+	margin-left:38%;
+}

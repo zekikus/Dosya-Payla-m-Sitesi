@@ -1,0 +1,44 @@
+.ortaKisim{
+	width:40%;
+	height:40%;
+	background-image:url("../images/orta_zemin.png");
+	background-repeat:round;
+	border-radius:5px;
+	margin-left:27%;
+	padding:15px;
+	margin-top:5%;
+	box-shadow: 2px 2px 2px 4px #ccc;
+}
+
+select{
+	width:100%;
+	padding:5px;
+}
+
+.ortaKisim span{
+	color:red;
+	margin-left:20%;
+}
+
+.ortaKisim table{
+	margin-top:3%;
+	margin-left:10%;
+}
+
+.kaydet{
+	background:#50A162;
+	color:#fff;
+	border-radius:5px;
+	border-color:#fff;
+	padding:10px;
+	margin-left:20%;
+	margin-top:2%;
+	font-family:"Verdana";
+	font-weight:bold;
+	cursor:pointer;
+	width:50%;
+}
+
+.kaydet:hover{
+	background:
+}

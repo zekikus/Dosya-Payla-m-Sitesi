@@ -1,0 +1,67 @@
+.ortaKisim{
+	width:80%;
+	height:auto;
+	background-image:-webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f2f2f2));
+	border-radius:5px;
+	margin-left:10%;
+	padding:15px;
+	margin-top:5%;
+	box-shadow: 2px 2px 2px 4px #ccc;
+	position:relative;
+}
+
+.ortaKisim span{
+	color:#009900;
+	position:absolute; 
+	margin-left:1%; 
+	margin-top:1%; 
+	border-radius:3px;
+}
+.ortaKisim table{
+	margin-top:3%;
+	width:100%;
+	margin-left:1%;
+	height:auto;
+}
+.baslik td{
+	text-align:center;
+	font-size:12px;
+	background:black;
+	color:#fff;
+	padding:5px;
+	border-radius:5px;
+}
+
+.gelenKayitlar td{
+	text-align:center;
+	font-size:12px;
+	border:1px solid #333;
+	color:black;
+	border-radius:5px;
+	padding:5px;
+}
+
+.ortaKisim select{
+	float:right;
+	margin-top:-5%;
+	margin-right:5%;
+	padding:5px;
+	width:10%;
+}
+
+.sil{
+	background:#CC2525;
+	color:#fff;
+	border-radius:5px;
+	border-color:#fff;
+	padding:10px;
+	width:15%;
+	margin-left:1%;
+	margin-top:2%;
+	cursor:pointer;
+	font-family:"Verdana";
+	font-weight:bold;
+}
+
+
+
